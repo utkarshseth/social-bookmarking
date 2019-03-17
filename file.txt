@@ -1,9 +1,1 @@
-HEllo
-
-<<<<<<< HEAD
-Hello Utkarsh Sethji
-=======
-Hello Utkarsh
->>>>>>> parent of ae29814... check diff command
-]
-
+hey bro what is up?
