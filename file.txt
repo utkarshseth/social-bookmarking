@@ -1,5 +1,9 @@
 HEllo
 
-Hello Utkarsh Seth
+<<<<<<< HEAD
+Hello Utkarsh Sethji
+=======
+Hello Utkarsh
+>>>>>>> parent of ae29814... check diff command
 ]
 
